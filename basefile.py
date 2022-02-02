@@ -4,13 +4,6 @@ Parsing file headers and reading one or all channels at once
 More or less pep8 formatted
 Will ad some docs when it'll be bug free.
 
-TODO: need some work with loading speed, for now it is limited at 10 MB/sec.
-'''
-
-# Author: harmless, mailto: mishin@iaaras.ru or use gitlab project page for feedback
-# Testing and MatLab check: V. Ken
-# Have a nice day!
-
 import struct
 import array
 import numpy as np
