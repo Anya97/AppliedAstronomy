@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-# simple PuQt based gui to plot spectrum density from base files
-# openDialog, keyPressEvents, inline matplotlib widget
-# with emojies support 😎 f-yeah!
-# debug with ipython --gui=qt4
-# a = acplot()
-# s.show()
-# TESTING!
-
-# Author: harmless, mailto: mishin@iaaras.ru or use gitlab project page for feedback
-# Have a nice day!
-
 # TODO: re-make PyQt imports!
 
 import sys  # will need that at least at app.exec_()
